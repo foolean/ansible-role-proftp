@@ -1,0 +1,15 @@
+# Copyright (c) 2023, Bennett Samowich <bennett@foolean.org>
+# All rights reserved
+# SPDX short identifier: BSD-3-Clause
+---
+
+# proftp_packages
+#   List of packages to be installed/removed
+proftp_packages:
+  - 'proftpd'
+  - 'proftpd-devel'
+  - 'proftpd-ldap'
+  - 'proftpd-mysql'
+  - 'proftpd-postgresql'
+  - 'proftpd-sqlite'
+  - 'proftpd-utils'

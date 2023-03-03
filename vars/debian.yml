@@ -1,0 +1,32 @@
+# Copyright (c) 2023, Bennett Samowich <bennett@foolean.org>
+# All rights reserved
+# SPDX short identifier: BSD-3-Clause
+---
+
+# proftp_packages
+#   List of packages to be installed/removed
+proftp_packages:
+  - 'proftpd-basic'
+  - 'proftpd-core'
+  - 'proftpd-dev'
+  - 'proftpd-doc'
+  - 'proftpd-mod-crypto'
+  - 'proftpd-mod-geoip'
+  - 'proftpd-mod-ldap'
+  - 'proftpd-mod-mysql'
+  - 'proftpd-mod-odbc'
+  - 'proftpd-mod-pgsql'
+  - 'proftpd-mod-snmp'
+  - 'proftpd-mod-sqlite'
+  - 'proftpd-mod-wrap'
+  - 'proftpd-mod-autohost'
+  - 'proftpd-mod-case'
+  - 'proftpd-mod-clamav'
+  - 'proftpd-mod-counter'
+  - 'proftpd-mod-fsync'
+  - 'proftpd-mod-geoip2'
+  - 'proftpd-mod-msg'
+  - 'proftpd-mod-proxy'
+  - 'proftpd-mod-statsd'
+  - 'proftpd-mod-tar'
+  - 'proftpd-mod-vroot'
